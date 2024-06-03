@@ -10,7 +10,11 @@ For example: Create and manage  templates, ODLs, enabling access for users. (man
 
 ![](./Images/Admin.png)
  
-**Instructor:** Instructors can only access and manage the labs they are associated to. They do not get access to all the labs but only for the labs they are supposed to instruct / teach. With instructor access, they can manage the users and resources (add / delete / reset users' environment / extend lab duration) and  - access environment and manage like stop or start the resources)
+**Instructor:** Instructors can only access and manage the labs they are associated to. They do not get access to all the labs but only for the labs they are supposed to instruct / teach. 
+
+With instructor access, they can manage the users and resources (add / delete / reset users' environment / extend lab duration) and  - access environment and manage like stop or start the resources)
+
+![](./Images/Instructor.png)
  
 **Requestors:** This is for the lab requests, requestors can only submit the lab requests. They can not view / access other portal features like templates or ODLs
  
