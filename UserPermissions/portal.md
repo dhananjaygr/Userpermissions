@@ -1,3 +1,5 @@
+# Tenant User Permissions  
+
 **Admin:** Admins can manage end to end CloudLabs portal for example: Create and manage  templates, ODLs, enabling access for users. (manage full portal)
  
 **Instructor:** Instructors can only access and manage the labs they are associated to. They do not get access to all the labs but only for the labs they are supposed to instruct / teach. With instructor access, they can manage the users and resources (add / delete / reset users' environment / extend lab duration) and  - access environment and manage like stop or start the resources)
