@@ -24,5 +24,4 @@ With instructor access, they can manage the users and resources (add / delete / 
  
 **Report viewer:** Can only access and view reports like - Cost reports / users reports (PowerBI reports) can not view / access other options
  
-**Lab Request only:** <Not sure about this - as we already have Requestors option separately - how this is different - need to test or need ot check with engg team) 
  
