@@ -4,7 +4,9 @@ The available permissions for users in CloudLabs are as follows:
 
 ![](./Images/allroles.png)
 
-**Admin:** Admins can manage end to end CloudLabs portal for example: Create and manage  templates, ODLs, enabling access for users. (manage full portal)
+**Admin:** Admins can manage end to end CloudLabs portal.
+
+For example: Create and manage  templates, ODLs, enabling access for users. (manage full portal)
 
 ![](./Images/Admin.png)
  
