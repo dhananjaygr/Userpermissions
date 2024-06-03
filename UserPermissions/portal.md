@@ -20,4 +20,3 @@ For example: Create and manage  templates, ODLs, enabling access for users. (man
  
 **Lab Request only:** <Not sure about this - as we already have Requestors option separately - how this is different - need to test or need ot check with engg team) 
  
-**Lab Admin:** <not sure about this - what additional capability we will get - as Instructor also gets lab admin access) - need to test or check with engg (bhavan should be able to test with his linkeDin /IDs) 
