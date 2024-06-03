@@ -15,6 +15,8 @@ For example: Create and manage  templates, ODLs, enabling access for users. (man
 With instructor access, they can manage the users and resources (add / delete / reset users' environment / extend lab duration) and  - access environment and manage like stop or start the resources)
  
 **Requestors:** This is for the lab requests, requestors can only submit the lab requests. They can not view / access other portal features like templates or ODLs
+
+![](./Images/Requestor.png)
  
 **Approver:** Can only approve the lab requests (can not access other options like template, ODLs) 
  
