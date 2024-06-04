@@ -18,10 +18,36 @@
 
 ![](./Images/Instructor.png)
  
-**Requestors:** This is for the lab requests, requestors can only submit the lab requests. They can not view / access other portal features like templates or ODLs.
+**Requestors:** For lab requests, requestors can only submit requests. They cannot view or access other portal features such as templates or ODLs.
 
 ![](./Images/Requestor.png)
+
+ - Track - The Lab for which the request is raised. 
+
+ - Time Zone  - TIme Zone of the event. 
+
+ - Country - Country Where the event is hosted. 
+
+ - Date - Start date of the event.
+
+ - #Days - Number of days the event will span. 
  
+ - Start Date - Time at which lab environments should be ready. 
+
+ - City - City where the event is hosted.
+
+ - Notes - Anything specific that should be taken care while setting up the lab environment. 
+
+ - Expected Attendee Count  - The number of lab environments to be pre-deployed. 
+
+ -  Supported Language - Language that will be used in the registration and lab environment page
+
+ -  Primary Contact - Email address that can be used for communication, if there is any question regarding the lab request. 
+
+ -  Customer - Company or Organization name. 
+ 
+ -  Duration (in Minutes) - Duration for which the lab environment will run. 
+
 **Approver:** Can only approve the lab requests. (can not access other options like template, ODLs) 
 
 ![](./Images/approver.png)
