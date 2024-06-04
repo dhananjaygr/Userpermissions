@@ -38,39 +38,39 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 
 ![](./Images/Requestor_1.png)
 
- - Track - The Lab for which the request is raised. 
+ - **Track** - The Lab for which the request is raised. 
 
- - Description - Once the track is selected, the description will be loaded based on that track.
+ - **Description** - Once the track is selected, the description will be loaded based on that track.
 
- - Event Type - The event will be virtual for the time being.
+ - **Event Type** - The event will be virtual for the time being.
 
- - Time Zone  - TIme Zone of the event. 
+ - **Time Zone**  - TIme Zone of the event. 
 
- - Country - Country Where the event is hosted. 
+ - **Country** - Country Where the event is hosted. 
 
- - Date - Start date of the event.
+ - **Date** - Start date of the event.
 
- - #Days - Number of days the event will span. 
+ - **#Days** - Number of days the event will span. 
  
- - Start TIme - Time at which lab environments should be ready. 
+ - **Start TIme** - Time at which lab environments should be ready. 
 
- - City - City where the event is hosted.
+ - **City** - City where the event is hosted.
 
- - Notes - Anything specific that should be taken care while setting up the lab environment. 
+ - **Notes** - Anything specific that should be taken care while setting up the lab environment. 
 
- - Expected Attendee Count  - The number of lab environments to be pre-deployed. 
+ - **Expected Attendee Count**  - The number of lab environments to be pre-deployed. 
 
- - Supported Language - Language that will be used in the registration and lab environment page.
+ - **Supported Language** - Language that will be used in the registration and lab environment page.
 
- - Primary Contact - Email address that can be used for communication, if there is any question regarding the lab request. 
+ - **Primary Contact** - Email address that can be used for communication, if there is any question regarding the lab request. 
 
- - Customer - Company or Organization name. 
+ - **Customer** - Company or Organization name. 
 
- - Opportunity Id - 
+ - **Opportunity Id** - 
 
- - Workshop Purpose - The Pupose of the Workshop. 
+ - **Workshop Purpose** - The Pupose of the Workshop. 
  
- - Duration (in Minutes) - Duration for which the lab environment will run. 
+ - **Duration (in Minutes)** - Duration for which the lab environment will run. 
 
 **Approver:** They can only approve lab requests and cannot access other options such as templates or ODLs.
 
