@@ -66,7 +66,7 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 
  - **Customer** - Company or Organization name. 
 
- - **Workshop Purpose** - The Pupose of the Workshop. 
+ - **Workshop Purpose** - The goal or aim of the workshop.
  
  - **Duration (in Minutes)** - Duration for which the lab environment will run. 
 
