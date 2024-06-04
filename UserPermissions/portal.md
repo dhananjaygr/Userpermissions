@@ -66,8 +66,6 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 
  - **Customer** - Company or Organization name. 
 
- - **Opportunity Id** - 
-
  - **Workshop Purpose** - The Pupose of the Workshop. 
  
  - **Duration (in Minutes)** - Duration for which the lab environment will run. 
