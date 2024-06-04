@@ -12,6 +12,8 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 
    ![](./Images/allroles.png)
 
+>**Note:** **Lab request only** functionality is still in the testing phase.
+
    - **Name:** Name of the User. 
   
    - **Email:** Email of the user. 
@@ -34,7 +36,13 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 
 ![](./Images/Requestor.png)
 
+![](./Images/Requestor_1.png)
+
  - Track - The Lab for which the request is raised. 
+
+ - Description - Once the track is selected, the description will be loaded according to the track provided in the calendar section of the admin portal.
+
+ - Event Type - The event will be virtual for the time being.
 
  - Time Zone  - TIme Zone of the event. 
 
@@ -44,7 +52,7 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 
  - #Days - Number of days the event will span. 
  
- - Start Date - Time at which lab environments should be ready. 
+ - Start TIme - Time at which lab environments should be ready. 
 
  - City - City where the event is hosted.
 
@@ -58,6 +66,8 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 
  - Customer - Company or Organization name. 
 
+ - Opportunity Id - 
+
  - Workshop Purpose - The Pupose of the Workshop. 
  
  - Duration (in Minutes) - Duration for which the lab environment will run. 
@@ -67,5 +77,4 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 ![](./Images/approver.png)
  
 **Report viewer:** Can only access and view reports like - Cost reports / users reports (PowerBI reports) and can not view / access other options. 
- 
->**Note:** **Lab request only** and **Lab Admin** functionalities are still in the testing phase.  
+   
