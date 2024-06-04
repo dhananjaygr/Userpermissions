@@ -74,5 +74,4 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 
 ![](./Images/approver.png)
  
-**Report viewer:** Can only access and view reports like - Cost reports / users reports (PowerBI reports) and can not view / access other options. 
-   
+**Report viewer:** They can only access and view reports such as cost reports and user reports (PowerBI reports) and cannot view or access other options.
