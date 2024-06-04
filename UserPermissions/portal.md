@@ -1,8 +1,14 @@
 # Tenant User Permissions  
 
-The available permissions for users in CloudLabs are as follows:
+1. Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access is unavailable, kindly reach out to your point of contact or [CloudLabs Support](https://docs.cloudlabs.ai/RequestSupport)).
 
-![](./Images/allroles.png)
+2. Navigate to the necessary Tenant and select the **users (1)** section. Next, click on the **+ Add User (2)** option.
+
+   ![](./Images/adduser.png)
+
+3. After clicking on **+ Add User,** the available roles for users in CloudLabs are as follows:
+
+   ![](./Images/allroles.png)
 
 **Admin:** Admins can manage end to end CloudLabs portal.
 
