@@ -12,6 +12,14 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 
    ![](./Images/allroles.png)
 
+   - **Name:** Name of the User. 
+  
+   - **Email:** Email of the user. 
+
+   - **Role:** Role to be assigned to the user. 
+
+   - **Organization:** Organization name of the user. 
+
 **Admin:** Admin have full control over the CloudLabs portal, including tasks such as creating and managing templates, ODLs, and enabling user access.
 
 ![](./Images/Admin.png)
