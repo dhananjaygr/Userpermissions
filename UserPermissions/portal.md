@@ -10,15 +10,11 @@
 
    ![](./Images/allroles.png)
 
-**Admin:** Admins can manage end to end CloudLabs portal.
-
-For example: Create and manage  templates, ODLs, enabling access for users. (manage full portal)
+**Admin:** Admin have full control over the CloudLabs portal, including tasks such as creating and managing templates, ODLs, and enabling user access.
 
 ![](./Images/Admin.png)
  
-**Instructor:** Instructors can only access and manage the labs they are associated to. They do not get access to all the labs but only for the labs they are supposed to instruct / teach. 
-
-With instructor access, they can manage the users and resources (add / delete / reset users' environment / extend lab duration) and  - access environment and manage like stop or start the resources.
+**Instructor:** Instructors can only access and manage labs they are associated with. With instructor access, they can manage users and resources, including adding, deleting, resetting users' environments, extending lab durations, and accessing environments to start or stop resources.
 
 ![](./Images/Instructor.png)
  
