@@ -18,7 +18,7 @@
 
 ![](./Images/Instructor.png)
  
-**Requestors:** For lab requests, requestors can only submit requests. They cannot view or access other portal features such as templates or ODLs.
+**Requestors:** For lab requests, requestor can only submit requests. They cannot view or access other portal features such as templates or ODLs.
 
 ![](./Images/Requestor.png)
 
@@ -48,7 +48,7 @@
  
  -  Duration (in Minutes) - Duration for which the lab environment will run. 
 
-**Approver:** Can only approve the lab requests. (can not access other options like template, ODLs) 
+**Approver:** They can only approve lab requests and cannot access other options such as templates or ODLs.
 
 ![](./Images/approver.png)
  
