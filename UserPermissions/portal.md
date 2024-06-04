@@ -12,7 +12,7 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 
    ![](./Images/allroles.png)
 
->**Note:** **Lab request only** functionality is still in the testing phase.
+>**Note:** **Lab Request Only** functionality is still in the testing phase.
 
    - **Name:** Name of the User. 
   
