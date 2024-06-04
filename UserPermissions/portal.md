@@ -27,6 +27,8 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 **Instructor:** Instructor can only access and manage labs they are associated with. With instructor access, they can manage users and resources, including adding, deleting, resetting users' environments, extending lab durations, and accessing environments to start or stop resources.
 
 ![](./Images/Instructor.png)
+
+![](./Images/Instructor_1.png)
  
 **Requestors:** For lab requests, requestor can only submit requests. They cannot view or access other portal features such as templates or ODLs.
 
