@@ -42,9 +42,9 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 
  - **Description** - Once the track is selected, the description will be loaded based on that track.
 
- - **Event Type** - The event will be virtual for the time being.
+ - **Event Type** - The event will be **Virtual** for the time being.
 
- - **Time Zone**  - TIme Zone of the event. 
+ - **Time Zone**  - Time Zone of the event. 
 
  - **Country** - Country Where the event is hosted. 
 
