@@ -40,7 +40,7 @@
 
  - Expected Attendee Count  - The number of lab environments to be pre-deployed. 
 
- - Supported Language - Language that will be used in the registration and lab environment page
+ - Supported Language - Language that will be used in the registration and lab environment page.
 
  - Primary Contact - Email address that can be used for communication, if there is any question regarding the lab request. 
 
@@ -56,4 +56,4 @@
  
 **Report viewer:** Can only access and view reports like - Cost reports / users reports (PowerBI reports) and can not view / access other options. 
  
->**Note:** **Lab request only** and **Lab Admin** functionalities are still in the testing phase. We will provide updates once they are live.
+>**Note:** **Lab request only** and **Lab Admin** functionalities are still in the testing phase.  
