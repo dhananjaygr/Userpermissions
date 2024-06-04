@@ -40,7 +40,7 @@ Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access
 
  - Track - The Lab for which the request is raised. 
 
- - Description - Once the track is selected, the description will be loaded according to the track provided in the calendar section of the admin portal.
+ - Description - Once the track is selected, the description will be loaded based on that track.
 
  - Event Type - The event will be virtual for the time being.
 
